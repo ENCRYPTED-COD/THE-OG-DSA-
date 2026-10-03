@@ -13,9 +13,13 @@ public class Problem {
         if (number1>number2){
             System.out.println("number1 is greater");
         }
-            else
-                {
+         else if (number1<number2)
+            {
                 System.out.println("number2 is greater");
+            }
+            else
+            {
+                System.out.println("both are equal ");
             }
         System.out.println(add);
         System.out.println(diffrence);
