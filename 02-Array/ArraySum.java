@@ -7,3 +7,6 @@ void main(){
     }
     System.out.println("sum of the array is: "+sum);
 }
+
+
+
